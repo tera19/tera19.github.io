@@ -1,0 +1,11 @@
+body {
+	font-family: 'Roboto';
+	font-size: 15px;
+	background-image: url(images/da2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.foto {
+	margin:0 auto;
+}
